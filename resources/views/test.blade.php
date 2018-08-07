@@ -1,6 +1,6 @@
 @extends('template')
 @section('head')
-	Test
+	Test oui
 @endsection
 @section('contenu')
 	Ceci est un pinuts

@@ -3,5 +3,5 @@
 	Accueil
 @endsection
 @section('contenu')
-	Test
+	<h1><div class="center">test</div></h1>
 @endsection
